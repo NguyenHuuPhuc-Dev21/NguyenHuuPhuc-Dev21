@@ -12,18 +12,16 @@ Currently building a spare-parts lookup system for an excavator parts store: cro
 - **Languages:** TypeScript, JavaScript, Java, SQL
 - **Frontend:** React, Vite, React Native / Expo
 - **Backend:** Node.js, NestJS, REST API, JWT / Google OAuth
-- **Database:** PostgreSQL (full-text / trigram search, unaccent)
-- **Tools:** Git, GitHub, Docker Compose, pnpm / Turborepo
+- **Database:** PostgreSQL, SQL Server
+- **Tools:** Git, GitHub, Docker Compose
 
 ## 🚀 Featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| **HealthCareSystem** | Healthcare management system — TypeScript | TypeScript, React, Node.js |
+| [**HealthCareSystem**](https://github.com/NguyenHuuPhuc-Dev21/HealthCareSystem) | Hospital home-care nursing platform — booking, nurse matching, verified in-home care sessions, gateway payments and an emergency SOS workflow | TypeScript, React, React Native, Node.js, PostgreSQL |
 | **Vinh Hoang Store** *(private)* | Excavator spare-parts lookup app — part-number cross-reference, machine compatibility, supplier pricing, price history | React, NestJS, PostgreSQL, React Native |
-| *Add your next best project here* | *One line: what problem it solves, not what subject it was for* | *Stack* |
-
-> Tip: link each project name to its repo, and make sure each repo has its own README with a screenshot and run instructions.
+| [**ReactApp_Store**](https://github.com/NguyenHuuPhuc-Dev21/ReactApp_Store) | Mini e-commerce storefront — product catalog, cart, favorites and role-based routing | React, Redux, JavaScript, FakeStoreAPI |
 
 ## 📊 GitHub stats
 
