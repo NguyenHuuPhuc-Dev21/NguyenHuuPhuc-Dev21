@@ -1,9 +1,11 @@
-# Hi, I'm Nguyen Huu Phuc 👋
+# Hi, I'm Nguyen Huu Phuc 
 
-**Software Engineering Student** based in Da Nang, Vietnam.
-I build practical web applications with **TypeScript, React, NestJS and PostgreSQL** — with a focus on clean architecture, real business workflows, and searchable, well-structured data.
-
+Software Engineering Student at FPT University, based in Da Nang, Vietnam.
+I build practical web applications with TypeScript, React, NestJS and PostgreSQL — with a focus on clean architecture, real business workflows, and searchable, well-structured data.
 Currently building a spare-parts lookup system for an excavator parts store: cross-reference part numbers, machine-model compatibility, and per-supplier pricing — no bloated POS features, just the lookup workflow the shop actually uses every day.
+🎓 Studying Software Engineering at FPT University
+🌱 Currently focused on TypeScript, React, NestJS and PostgreSQL
+💼 Open to internships and collaboration on TypeScript / React / Node.js projects
 
 ## 🛠 Tech stack
 
