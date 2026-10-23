@@ -1,11 +1,13 @@
-# Hi, I'm Nguyen Huu Phuc 
+# Hi, I'm Nguyen Huu Phuc 👋
 
-Software Engineering Student at FPT University, based in Da Nang, Vietnam.
-I build practical web applications with TypeScript, React, NestJS and PostgreSQL — with a focus on clean architecture, real business workflows, and searchable, well-structured data.
+**Software Engineering Student at FPT University**, based in Da Nang, Vietnam.
+I build practical web applications with **TypeScript, React, NestJS and PostgreSQL** — with a focus on clean architecture, real business workflows, and searchable, well-structured data.
+
 Currently building a spare-parts lookup system for an excavator parts store: cross-reference part numbers, machine-model compatibility, and per-supplier pricing — no bloated POS features, just the lookup workflow the shop actually uses every day.
-🎓 Studying Software Engineering at FPT University
-🌱 Currently focused on TypeScript, React, NestJS and PostgreSQL
-💼 Open to internships and collaboration on TypeScript / React / Node.js projects
+
+- 🎓 Studying Software Engineering at **FPT University**
+- 🌱 Currently focused on TypeScript, React, NestJS and PostgreSQL
+- 💼 Open to internships and collaboration on TypeScript / React / Node.js projects
 
 ## 🛠 Tech stack
 
@@ -14,16 +16,16 @@ Currently building a spare-parts lookup system for an excavator parts store: cro
 - **Languages:** TypeScript, JavaScript, Java, SQL
 - **Frontend:** React, Vite, React Native / Expo
 - **Backend:** Node.js, NestJS, REST API, JWT / Google OAuth
-- **Database:** PostgreSQL, SQL Server
-- **Tools:** Git, GitHub, Docker Compose
+- **Database:** PostgreSQL (full-text / trigram search, unaccent)
+- **Tools:** Git, GitHub, Docker Compose, pnpm / Turborepo
 
 ## 🚀 Featured projects
 
 | Project | What it is | Stack |
-|---|---|---|
+| --- | --- | --- |
 | [**HealthCareSystem**](https://github.com/NguyenHuuPhuc-Dev21/HealthCareSystem) | Hospital home-care nursing platform — booking, nurse matching, verified in-home care sessions, gateway payments and an emergency SOS workflow | TypeScript, React, React Native, Node.js, PostgreSQL |
 | **Vinh Hoang Store** *(private)* | Excavator spare-parts lookup app — part-number cross-reference, machine compatibility, supplier pricing, price history | React, NestJS, PostgreSQL, React Native |
-| [**ReactApp_Store**](https://github.com/NguyenHuuPhuc-Dev21/ReactApp_Store) | Mini e-commerce storefront — product catalog, cart, favorites and role-based routing | React, Redux, JavaScript, FakeStoreAPI |
+| [**ReactApp\_Store**](https://github.com/NguyenHuuPhuc-Dev21/ReactApp_Store) | Mini e-commerce storefront — product catalog, cart, favorites and role-based routing | React, Redux, JavaScript, FakeStoreAPI |
 
 ## 📊 GitHub stats
 
@@ -32,9 +34,11 @@ Currently building a spare-parts lookup system for an excavator parts store: cro
 
 ## 📫 Contact
 
+- **University:** FPT University
 - **Location:** Da Nang, Vietnam
-- **LinkedIn:** [Nguyen_Huu_Phuc](https://www.linkedin.com/in/nguyen-huu-phuc-dev2110)
+- **LinkedIn:** [Nguyen\_Huu\_Phuc](https://www.linkedin.com/in/nguyen-huu-phuc-dev2110)
 - **Email:** huuphuc0521@gmail.com
 
 ---
+
 *Open to internships and collaboration on TypeScript / React / Node.js projects.*
